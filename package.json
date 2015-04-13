@@ -2,9 +2,7 @@
   "name": "Gerrit-Flowdock-Node",
   "version": "0.0.1",
   "dependencies": {
-    "flowdock": "latest",
     "minimist": "latest",
-    "request": "latest"
   },
   "bin": "bin.js",
   "main": "main.js"
